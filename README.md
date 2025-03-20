@@ -1,27 +1,26 @@
 # Análise de Sentimentos com Language Studio no Azure AI
 Projeto DIO: Análise de Sentimentos com Language Studio no Azure AI
 
-## Primeira Frase
-![image](https://github.com/user-attachments/assets/4d348fe4-4254-4ff6-9653-75145176298d)
+![image](https://github.com/user-attachments/assets/48c4d85d-c361-46f5-8784-4c363256680c)
 
-## Segunda Frase
-![image](https://github.com/user-attachments/assets/e4f56a6d-b6a6-4de0-8254-bfe6df596e87)
+![image](https://github.com/user-attachments/assets/2f999d88-0325-42d2-86fe-fa54b0fe48a3)
 
-## Terceira Frase
-![image](https://github.com/user-attachments/assets/3f453267-5f1f-4e93-a4fe-60fc4e449023)
+![image](https://github.com/user-attachments/assets/8db324db-b145-44dc-bc42-316012aa51c2)
 
-##  Quarta Frase
-![image](https://github.com/user-attachments/assets/99b93d9c-fba9-43cf-811c-668250766290)
+![image](https://github.com/user-attachments/assets/2a67ef7b-8052-4be4-aee2-bfe407f8faa0)
 
-## Quinta Frase
-![image](https://github.com/user-attachments/assets/fe17415e-4e0b-406d-b247-597d86f7ba68)
+![image](https://github.com/user-attachments/assets/bbf621c7-d8e2-489d-aad8-017c66a31a01)
 
-## Sexta Frase
+![image](https://github.com/user-attachments/assets/c391cb12-7ec4-477c-81de-b604c3e0348a)
 
-## Sétima Frase
+![image](https://github.com/user-attachments/assets/cb4f1bd1-3bfd-4fbe-b8a4-e1c59ae391b7)
 
-## Oitava Frase
+![image](https://github.com/user-attachments/assets/d1253f72-3fbf-42e1-8c89-e1b8f7573293)
 
-## Nona Frase
+![image](https://github.com/user-attachments/assets/3ccab2b5-f446-4dd5-8e8e-8fe3eaa1317d)
 
-## Décima Frase
+![image](https://github.com/user-attachments/assets/37e1c85a-a456-42d3-822d-2124e2389191)
+
+![image](https://github.com/user-attachments/assets/36b4031a-df8d-4aae-977c-e6c66292cc64)
+
+![image](https://github.com/user-attachments/assets/52329b24-6ef0-42a9-a858-375ddf5af70f)
